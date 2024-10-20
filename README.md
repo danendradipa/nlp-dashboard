@@ -13,7 +13,7 @@ This project has been deployed on Streamlit and can be accessed through the foll
 
 1. Clone the repository:
     ```bash
-    https://github.com/danendradipa/nlp-dashboard
+    https://github.com/danendradipa/nlp-dashboard.git
     ```
 
 2. Install the required dependencies:
