@@ -3,6 +3,7 @@
 This project is an application for sentiment analysis that features two main menus. The first menu provides tools for analyzing sentiment in the Indonesian language. The second menu, Dataset, Cleaning & Analysis, allows users to upload their CSV dataset, select the column to clean, and generate sentiment predictions for each row in the dataset. It also offers additional analyses, such as word cloud, sentiment distribution, most frequent words, and KMeans clustering. Ensure that your dataset contains textual data in the column you select for cleaning.
 
 This project has been deployed on Streamlit and can be accessed through the following link:
+https://nlpdashboard-dane.streamlit.app/
 
 
 ## Key Features:
